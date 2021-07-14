@@ -32,5 +32,5 @@ foreach($f as $line){
         }
 }
 
-file_put_contents("../README.md",$endB);
+file_put_contents("README.md",$endB);
 
