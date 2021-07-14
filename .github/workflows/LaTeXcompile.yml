@@ -23,4 +23,4 @@ jobs:
         with:
           author_name: LaTexCompiler
           message: 'Compiled LaTeX into PDF, updated README'
-          add: '*'
+          add: '["*.pdf","*md"]'
