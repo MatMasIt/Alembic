@@ -1,5 +1,5 @@
 <?php
-$source=file_get_contents("../Alembic.tex");
+$source=file_get_contents("Alembic.tex");
 $matches=[];
 preg_match_all('/
     (?|             # two alternatives whose group numbers both begin at 1
@@ -17,7 +17,7 @@ preg_match_all('/
 );
 $poems=$matches[1];
 $endB="";
-$f=file("../README.md");
+$f=file("README.md");
 $writeStuff=true;
 foreach($f as $line){
         if(trim($line)=="<!-- BEGIN POEMLIST -->"){
