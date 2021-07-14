@@ -10,3 +10,9 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: Alembic.tex
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: LaTexCompiler
+          message: 'Compiled LaTeX into PDF'
+          add: '*.pdf'
