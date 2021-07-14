@@ -15,6 +15,7 @@ jobs:
           root_file: Alembic.tex
       - name: Update Readme
         run: |
+          ls
           cd buildtols
           php buildreadme.php
           cd ../
