@@ -13,9 +13,14 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: Alembic.tex
+      - name: Update Readme
+        run: |
+          cd buildtols
+          php buildreadme.php
+          cd ../
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
           author_name: LaTexCompiler
-          message: 'Compiled LaTeX into PDF'
-          add: '*.pdf'
+          message: 'Compiled LaTeX into PDF, updated README'
+          add: '*'
