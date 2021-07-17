@@ -4,6 +4,28 @@
 \usepackage{titlesec}
 \usepackage{xcolor}
 \usepackage{varwidth}
+
+\usepackage{xpatch}
+
+\makeatletter
+
+\xpatchcmd{\@makeschapterhead}{%
+  \Huge \bfseries  #1\par\nobreak%
+}{%
+  \Huge \bfseries\centering #1\par\nobreak%
+}{\typeout{Patched makeschapterhead}}{\typeout{patching of @makeschapterhead failed}}
+
+
+\xpatchcmd{\@makechapterhead}{%
+  \huge\bfseries \@chapapp\space \thechapter
+}{%
+  \huge\bfseries\centering \@chapapp\space \thechapter
+}{\typeout{Patched @makechapterhead}}{\typeout{Patching of @makechapterhead failed}}
+
+\makeatother
+
+%% I just want stuff to be centered
+
 \newenvironment{Verse}
   {\center\varwidth{\linewidth}\fontsize{18}{21.6}\selectfont}
   {\endvarwidth\endcenter}
