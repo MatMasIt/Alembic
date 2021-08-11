@@ -8,37 +8,37 @@ Distributed Under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) ]
 List of poems:
 
 <!-- BEGIN POEMLIST -->
-* 10 Cogs
-* 10 Parcel
-* 10 Rolls
-* 10 Friction
-* 10 Machines
-* 10 OK
-* 10 Masters of Doubt
-* 10 Second Line
-* 10 Steam
+* 1 Cogs
+* 2 Parcel
+* 3 Rolls
+* 4 Friction
+* 5 Machines
+* 6 OK
+* 7 Masters of Doubt
+* 8 Second Line
+* 9 Steam
 * 10 Imaginary
-* 10 Sweden
-* 10 Contempt
-* 10 Resonance
-* 10 Beat
-* 10 Walk
-* 10 Act
-* 10 Bell
-* 10 Blue
-* 10 Red
-* 10 Casino
-* 10 War
-* 10 Trees
-* 10 Violet
-* 10 Reflection
-* 10 Smile
-* 10 Tear
-* 10 Void
-* 10 Dust
-* 10 Buyeth
-* 10 Gates
-* 10 Sweat
+* 11 Sweden
+* 12 Contempt
+* 13 Resonance
+* 14 Beat
+* 15 Walk
+* 16 Act
+* 17 Bell
+* 18 Blue
+* 19 Red
+* 20 Casino
+* 21 War
+* 22 Trees
+* 23 Violet
+* 24 Reflection
+* 25 Smile
+* 26 Tear
+* 27 Void
+* 28 Dust
+* 29 Buyeth
+* 30 Gates
+* 31 Sweat
 <!-- END POEMLIST -->
 
 
