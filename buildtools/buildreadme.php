@@ -19,19 +19,22 @@ $poems=$matches[1];
 $endB="";
 $f=file("README.md");
 $writeStuff=true;
-$i=1;
+
 foreach($f as $line){
         if(trim($line)=="<!-- BEGIN POEMLIST -->"){
                 $writeStuff=false;
                 $endB.=$line;
-                foreach($poems as $p) $endB.="* $i ".$p."\n";
+                $i=1;
+                foreach($poems as $p){
+                    $endB.="* ".$i." ".$p."\n";
+                    $i++;
+                }
         }
         if($writeStuff) $endB.=$line;
         if(trim($line)=="<!-- END POEMLIST -->"){
                 $endB.=$line;
                 $writeStuff=true;
         }
-    $i++;
 }
 
 file_put_contents("README.md",$endB);
