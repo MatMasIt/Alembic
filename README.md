@@ -35,6 +35,10 @@ List of poems:
 * Smile
 * Tear
 * Void
+* Dust
+* Buyeth
+* Gates
+* Sweat
 <!-- END POEMLIST -->
 
 
