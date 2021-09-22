@@ -39,6 +39,7 @@ List of poems:
 * 29 Buyeth
 * 30 Gates
 * 31 Sweat
+* 32 Tin
 <!-- END POEMLIST -->
 
 
