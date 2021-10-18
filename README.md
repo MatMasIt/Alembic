@@ -1,9 +1,10 @@
 # Alembic
 [![Build LaTeX document](https://github.com/MatMasIt/Alembic/actions/workflows/LaTeXcompile.yml/badge.svg)](https://github.com/MatMasIt/Alembic/actions/workflows/LaTeXcompile.yml)
+![License](https://img.shields.io/badge/License-Creative%20Commons%20Attribution--ShareAlike%204.0%20International%20Public%20License-green)
 
 A collection of poems in english, by me
 
-Distributed Under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) ](https://creativecommons.org/licenses/by-sa/4.0/}) license
+Distributed Under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) ](https://creativecommons.org/licenses/by-sa/4.0/) license
 
 List of poems:
 
