@@ -41,6 +41,7 @@ List of poems:
 * 30 Gates
 * 31 Sweat
 * 32 Tin
+* 33 Stereo
 <!-- END POEMLIST -->
 
 
