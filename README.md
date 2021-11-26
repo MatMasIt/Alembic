@@ -45,7 +45,3 @@ List of poems:
 * 34 Alley
 <!-- END POEMLIST -->
 
-
----
-
-Thanks to Eva Gotta
