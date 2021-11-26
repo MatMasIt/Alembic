@@ -44,5 +44,6 @@ List of poems:
 * 33 Stereo
 * 34 Alley
 * 35 Light
+* 36 Explode
 <!-- END POEMLIST -->
 
