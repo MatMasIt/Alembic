@@ -13,6 +13,13 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
          root_file: Alembic.tex
+      - name: Build Paged PDF
+        uses: actions/setup-python@v4
+        with:
+            python-version: '3.9'
+            cache: 'pip' # caching pip dependencies
+      - run: pip install PyPDF3
+      - run: python build_paged.py
       - name: Update README
         uses: nanasess/setup-php@master
         with:
