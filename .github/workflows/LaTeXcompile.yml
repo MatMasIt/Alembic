@@ -21,7 +21,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python build_paged.py
       - name: Generate markdown
-      - run: sudo apt install pandoc -y && pandoc -s Alembic.tex -o Alembic.md
+        run: sudo apt install pandoc -y && pandoc -s Alembic.tex -o Alembic.md
       - name: Update README
         uses: nanasess/setup-php@master
         with:
