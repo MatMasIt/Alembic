@@ -18,7 +18,7 @@ jobs:
         with:
             python-version: '3.9'
             cache: 'pip' # caching pip dependencies
-      - run: pip install PyPDF3
+      - run: pip install -r requirements.txt
       - run: python build_paged.py
       - name: Update README
         uses: nanasess/setup-php@master
