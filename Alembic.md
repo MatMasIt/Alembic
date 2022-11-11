@@ -691,7 +691,7 @@ to live tonight.
 Proof
 =====
 
-Proof, conjecture, demosntration,\
+Proof, conjecture, demonstration,\
 theorem, lemma, corollary, definition\
 Prove me this to show me that\
 I am everything we are\
@@ -704,3 +704,16 @@ $a)$ You have bored me to delirium\
 $b)$ I have loved you to hatred\
 $c)$ There is no sense ouside the empiric\
 so just hug me until we fade then.
+
+Razor
+=====
+
+Pretty white light ceramic\
+20 meters from the ground\
+it stands but never falling\
+creeps in, up and out\
+down the pathways of the mind\
+sharp as hell but dull as time\
+and if aided with his friends\
+it may show up anytime\
+pretty sideways white and light.
