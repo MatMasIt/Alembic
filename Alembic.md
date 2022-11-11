@@ -669,3 +669,38 @@ to interrupt the crystal crowd\
 what is within enclosed blasts\
 and backwards I fly\
 in happy-desperate mellow silence.
+
+Petroleum
+=========
+
+Sweet city petroleum jelly\
+Summer storming in and out\
+leading lead in office buildings\
+scribbling away some math\
+in my back pocket\
+to save it for later\
+this is my stop\
+catch me again\
+when the sun blazes\
+on the packed void\
+that i bear inside until\
+a good meal and a hug\
+clear me out and set me up\
+to live tonight.
+
+Proof
+=====
+
+Proof, conjecture, demosntration,\
+theorem, lemma, corollary, definition\
+Prove me this to show me that\
+I am everything we are\
+our relationship is symmetric\
+but is it by any metric\
+proofed against the world's deceptions?\
+Would it be a misconception\
+If I state that $[a,b,c]$\
+$a)$ You have bored me to delirium\
+$b)$ I have loved you to hatred\
+$c)$ There is no sense ouside the empiric\
+so just hug me until we fade then.

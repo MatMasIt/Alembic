@@ -58,5 +58,7 @@ List of poems:
 * 45 Boys?
 * 46 Rest
 * 47 Mellowly
+* 48 Petroleum
+* 49 Proof
 <!-- END POEMLIST -->
 
