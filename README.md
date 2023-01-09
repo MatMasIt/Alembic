@@ -61,5 +61,7 @@ List of poems:
 * 48 Petroleum
 * 49 Proof
 * 50 Razor
+* 51 Harmony
+* 52 Interrupt
 <!-- END POEMLIST -->
 

@@ -717,3 +717,27 @@ sharp as hell but dull as time\
 and if aided with his friends\
 it may show up anytime\
 pretty sideways white and light.
+
+Harmony
+=======
+
+Demonstrambly a harm\
+-ony of logical steps\
+off the ground, to the coast\
+to sail and cruise the concept\
+to get what's next.\
+What's next?
+
+Interrupt
+=========
+
+Skating on ice\
+a radio call arrives\
+to get the sensor data\
+interrupt\
+new line.\
+And as you walk the streets, the hills\
+and the skies\
+you always incur a stream\
+interrupt\
+new line.\
