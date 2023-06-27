@@ -721,7 +721,7 @@ pretty sideways white and light.
 Harmony
 =======
 
-Demonstrambly a harm\
+Demonstrably a harm\
 -ony of logical steps\
 off the ground, to the coast\
 to sail and cruise the concept\
@@ -741,3 +741,15 @@ and the skies\
 you always incur a stream\
 interrupt\
 new line.\
+
+Halves
+======
+
+Half the journey to the deck,\
+under the thundering speed of thought\
+caffeine dilutes in the bloodstream\
+set squares to map the sky\
+in a set of parallel lines.\
+Each point's side of the line\
+yet I fail to map me\
+yet I fail to map you
