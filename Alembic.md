@@ -753,3 +753,18 @@ in a set of parallel lines.\
 Each point's side of the line\
 yet I fail to map me\
 yet I fail to map you
+
+Thine
+=====
+
+Witty gaze, inquisitive, candid.\
+Rebelous warmth - mellow time,\
+interlace.\
+Laughter rises, heat echoes.\
+Tight embrace, eye's spirit arise,\
+carousel.\
+Silent joy, a waving night,\
+In your arms the world turns right.\
+Beyond any glassy-spreadsheet-reasoned mind.\
+Where hearts align,\
+it's the simple act of being thine.
